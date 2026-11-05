@@ -1,0 +1,2 @@
+Escriba el mensaje: Bienvenidos al curso
+Informacion guardada correctamente.
