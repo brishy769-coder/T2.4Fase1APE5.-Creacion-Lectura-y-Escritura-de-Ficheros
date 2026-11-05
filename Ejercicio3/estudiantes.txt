@@ -1,0 +1,7 @@
+
+estudiantes.txt se elimino correctamente.
+
+Si se ejecuta nuevamente o no se cumple la condición:
+
+
+No fue posible eliminar estudiantes.txt.
