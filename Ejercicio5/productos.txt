@@ -1,0 +1,5 @@
+Producto: Esfero
+Precio: $0.54
+Cantidad: 8
+Valor total: $4.32
+-------------------------
