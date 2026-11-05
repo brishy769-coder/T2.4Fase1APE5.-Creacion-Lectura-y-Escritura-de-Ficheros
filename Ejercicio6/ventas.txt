@@ -1,0 +1,16 @@
+Producto: Laptop
+Precio: $700.0
+Cantidad: 7
+Subtotal: $4900.0
+Descuento: $490.0
+Total a pagar: $4410.0
+-------------------------
+Producto: Esfero
+Precio: $0.87
+Cantidad: 4
+Subtotal: $3.48
+Descuento: $0.0
+Total a pagar: $3.48
+-------------------------
+TOTAL ACUMULADO: $4413.48
+=========================
