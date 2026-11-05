@@ -1,0 +1,8 @@
+El archivo curso.txt fue creado.
+Nombre: curso.txt
+
+Si se ejecuta nuevamente o no se cumple la condición:
+
+
+El archivo curso.txt ya existe.
+Nombre: curso.txt
